@@ -127,3 +127,17 @@ This project demonstrates how financial and operational data can be transformed 
 
 **Author:** Abdurrahim  
 **Focus:** Data Analytics | Business Intelligence | Financial Analysis
+
+## Project Screenshots
+
+### Executive Summary & KPI Scorecard
+![Executive Summary](screenshots/executive_summary.PNG)
+
+### Monthly Financial Performance
+![Monthly Performance](screenshots/monthly_performance.PNG)
+
+### Expense Analysis
+![Expense Analysis](screenshots/expense_analysis.PNG)
+
+### 2026 Financial Roadmap
+![2026 Roadmap](screenshots/2026_roadmap.PNG)
